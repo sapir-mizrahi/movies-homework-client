@@ -1,0 +1,20 @@
+.img-modal{
+    width: 150px;
+    height: 150px;
+    margin: auto;
+}
+.validation-input{
+    text-align: start;
+    color: red;
+    margin-bottom: 15px;
+}
+.search-movies{
+    justify-content: start;
+}
+.header-movies{
+    color: rgb(128, 133, 7);
+    font-weight: bold;
+}
+.p-modal{
+color: rgb(128, 133, 7) ;
+}
